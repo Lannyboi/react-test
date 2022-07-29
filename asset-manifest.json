@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lannyboi.github.io/Scrimba-solo-project-13.2/static/css/main.073c9b0a.css",
+    "main.js": "/lannyboi.github.io/Scrimba-solo-project-13.2/static/js/main.bc5ba7e3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/lannyboi.github.io/Scrimba-solo-project-13.2/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/lannyboi.github.io/Scrimba-solo-project-13.2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lannyboi.github.io/Scrimba-solo-project-13.2/index.html",
+    "main.073c9b0a.css.map": "/lannyboi.github.io/Scrimba-solo-project-13.2/static/css/main.073c9b0a.css.map",
+    "main.bc5ba7e3.js.map": "/lannyboi.github.io/Scrimba-solo-project-13.2/static/js/main.bc5ba7e3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/lannyboi.github.io/Scrimba-solo-project-13.2/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bc5ba7e3.js"
+  ]
+}
