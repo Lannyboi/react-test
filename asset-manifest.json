@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lannyboi.github.io/react-test/static/css/main.073c9b0a.css",
-    "main.js": "/lannyboi.github.io/react-test/static/js/main.e9c20699.js",
-    "static/js/787.28cb0dcd.chunk.js": "/lannyboi.github.io/react-test/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/lannyboi.github.io/react-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/lannyboi.github.io/react-test/index.html",
-    "main.073c9b0a.css.map": "/lannyboi.github.io/react-test/static/css/main.073c9b0a.css.map",
-    "main.e9c20699.js.map": "/lannyboi.github.io/react-test/static/js/main.e9c20699.js.map",
-    "787.28cb0dcd.chunk.js.map": "/lannyboi.github.io/react-test/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/react-test/static/css/main.073c9b0a.css",
+    "main.js": "/react-test/static/js/main.2d7e9185.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/react-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-test/index.html",
+    "main.073c9b0a.css.map": "/react-test/static/css/main.073c9b0a.css.map",
+    "main.2d7e9185.js.map": "/react-test/static/js/main.2d7e9185.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e9c20699.js"
+    "static/js/main.2d7e9185.js"
   ]
 }
